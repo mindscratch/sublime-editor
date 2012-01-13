@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Made of Code.tmTheme",
+	"draw_white_space": "selection",
+	"font_size": 14,
+	"line_padding_bottom": 0.5,
+	"line_padding_top": 0.5,
+	"tab_completion": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}

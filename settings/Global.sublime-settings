@@ -1,0 +1,46 @@
+{
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.pdf"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".bundle",
+		"log",
+		"tmp",
+		".sass-cache"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"new_window_settings":
+	{
+		"show_minimap": false
+	},
+	"theme": "Soda Light.sublime-theme",
+	"highlight_modified_tabs": true
+}
